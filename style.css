@@ -1,0 +1,73 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.h2{
+    font-size: 40px;
+}
+.orange-color{
+    color: orange;
+}
+.flexibal-container{
+    display: flex;
+    margin: bottom 150px;
+}
+.exoperience-all{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.half-width{
+    width: 40%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    background-image: -o-linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+    color:aliceblue
+    
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.dream-big{
+    background-image:  url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+.experience-item{
+    width: 50%;
+    box-shadow: 10px 10px 40px brown;
+    margin-left: 5%;
+    margin-right: 6%;
+    border-radius: 20px;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin-bottom: 4%;
+    text-align: justify;
+}
+#full-stack-devloper{
+    border-left: 7px solid tomato;
+}
+#baby-web-devloper{
+    border-left: 7px solid blue;
+}
+footer p{
+    text-align: center;
+}
+.resize{
+    text-align: justify;
+}
+
